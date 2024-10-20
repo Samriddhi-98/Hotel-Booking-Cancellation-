@@ -1,3 +1,5 @@
+https://b8ae31340cd6ca6bc2.gradio.live/
+
 Problem Definition- The INN Hotels Group is facing a significant challenge due to the increasing rate of booking cancellations, resulting in inventory loss and revenue reduction. In the last three months, inventory loss due to cancellations reached 18%, contributing to approximately $0.25 million in annual revenue loss. The company’s current heuristic approaches (based on rules and domain expertise) have proven to be ineffective, neither scalable nor efficient in minimizing these losses. To address this, INN Hotels Group seeks a data-driven approach to predict booking cancellations more accurately and proactively.
 
 This project aims to build a machine learning model that predicts the likelihood of hotel bookings being canceled, which can help the hotel group reduce inventory loss, minimize revenue impact, and improve overall operational efficiency.
